@@ -1,0 +1,48 @@
+body {
+  background-color: #313638;
+}
+
+.headline {
+  background-color: #050708;
+  text-align: center;
+  position: fixed;
+  color: #daeaf2;
+  padding: 10px;
+  width: 100%;
+  right: 0;
+  left: 0;
+  z-index: 1;
+  top: 0;
+}
+
+.images {
+  width: 500px;
+  height: 500px;
+}
+
+.column1 {
+  position: absolute;
+  left: 50px;
+}
+
+.column2 {
+  position: absolute;
+  left: 700px;
+}
+
+.column3 {
+  position: absolute;
+  right: 50px;
+}
+
+.footer {
+  background-color: #92a1a8;
+  color: #daeaf2;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  padding: 20px;
+  width: 100%;
+  right: 0;
+  left: 0;
+}
